@@ -8,32 +8,27 @@
 }
 #p1{
     font-family: Greater Teory;
-    font-size: 60px;
+    font-size: 22px;
     color:white;
 }
 #p2{
     font-family: Greater Teory;;
-    font-size: 70px;
+    font-size: 26px;
     color:rgb(255, 86, 10);
 }
 #p3{
     font-family: Greater Teory;;
-    font-size: 60px;
-    color: white;
-}
-#e1{
-    font-family: Greater Teory;;
-    font-size: 35px;
+    font-size: 22px;
     color: white;
 }
 footer{
-    height: 470;
-    width: 2000px;
+    height: 170;
+    width: 990px;
     border: 2px solid rgb(255, 86, 10);
     color: rgb(255, 86, 10);
 }
 #f2{
     font-family: internet;
-    font-size: 60px;
+    font-size: 20px;
     color:white;
 }
