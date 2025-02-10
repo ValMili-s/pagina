@@ -1,0 +1,39 @@
+@font-face{
+    font-family: Greater Teory;
+    src: url(GreaterTheory.otf)
+}
+@font-face{
+    font-family: internet;
+    src: url(lt_internet.zip)
+}
+#p1{
+    font-family: Greater Teory;
+    font-size: 60px;
+    color:white;
+}
+#p2{
+    font-family: Greater Teory;;
+    font-size: 70px;
+    color:rgb(255, 86, 10);
+}
+#p3{
+    font-family: Greater Teory;;
+    font-size: 60px;
+    color: white;
+}
+#e1{
+    font-family: Greater Teory;;
+    font-size: 35px;
+    color: white;
+}
+footer{
+    height: 470;
+    width: 2000px;
+    border: 2px solid rgb(255, 86, 10);
+    color: rgb(255, 86, 10);
+}
+#f2{
+    font-family: internet;
+    font-size: 60px;
+    color:white;
+}

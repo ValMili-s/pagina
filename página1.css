@@ -1,0 +1,27 @@
+@font-face{
+    font-family: internet;
+    src: url(lt_internet.zip)
+}
+@font-face{
+    font-family: Helvetica;
+    src: url(Helvetica\ Punk.ttf)
+}
+#p1{
+    font-family: Helvetica;
+    font-size: 120px;
+    color:rgb(255, 86, 10);
+}
+#p3{
+    font-family: internet;
+    font-size: 20px;
+    color:white;
+}
+.p2{
+    width: 55%;
+    height: 185px;
+    border: 1px solid rgba(255, 235, 205, 0.651);
+    overflow: scroll;
+    font-family: internet;
+    font-size: 20px;
+    color:white;
+}
